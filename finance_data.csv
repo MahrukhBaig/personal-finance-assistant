@@ -1,0 +1,14 @@
+amount,category,type,date
+1000,rent,expense,2025-07-15
+200,groceries,expense,2025-07-15
+5000,rent,expense,2025-07-15
+30000,salary,income,2025-07-15
+2500,salary,expense,2025-07-15
+1000,rent,expense,2025-07-15
+25000,salary,income,2025-07-15
+200,groceries,expense,2025-07-15
+1000,groceries,expense,2025-07-15
+200,groceries,expense,2025-07-15
+0,misc,expense,2025-07-15
+1000,misc,expense,2025-07-15
+300,groceries,expense,2025-07-15
